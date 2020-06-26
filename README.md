@@ -17,8 +17,9 @@ In order to drive autonomous vehicles even when no GPS data is available, e.g. i
 
 3. Run the code:
 
-
+    ```sh
     python slam.py
+    ```
 
 ### Demo
 
